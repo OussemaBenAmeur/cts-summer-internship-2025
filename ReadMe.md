@@ -86,26 +86,6 @@ A comprehensive multi-platform application that provides an interactive visualiz
 - **[Internship_Presentation.pdf](./Internship_Presentation.pdf)** - Final presentation covering the internship experience, key learnings, and project outcomes
 - **[ReadMe.md](./ReadMe.md)** - Additional notes, instructions, and project-specific information
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK) 8 or higher
-- C compiler (GCC recommended)
-- Modern web browser (for HTML visualization)
-- Git (for cloning the repository)
-
-### Running the Projects
-
-Each week's directory contains specific instructions and code. Navigate to the respective week's folder for detailed setup and execution instructions.
-
-**Example - Hash Table Visualizer:**
-```bash
-# Navigate to Week 3 or Week 4 directory
-cd Week-3
-
-# Follow the instructions in the respective week's README
-```
 
 ## 📝 Learning Outcomes
 
